@@ -2,8 +2,8 @@
 
 # ☕ STARBUCKS
 
-HTML / CSS / JS 및 라이브러리로 스타벅스 랜딩 페이지(홈페이지) 만들기 실습입니다. <br>
-Netlify 로 배포하였으니 아래 데모 링크를 클릭하여 확인해보세요. <br>
+HTML / CSS / JS 및 라이브러리로 구현하였습니다. <br>
+Netlify 로 배포하였으니 ⬇ 아래 데모 링크를 클릭하여 완성된 홈페이지를 확인해보세요. <br>
 
 [DEMO](https://celadon-cendol-7d648a.netlify.app/) <br/>
 
