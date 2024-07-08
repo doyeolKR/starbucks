@@ -1,11 +1,11 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/flamboyant-lumiere-482a1e/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)
 
 # ☕ STARBUCKS
 
 HTML / CSS / JS 및 라이브러리로 스타벅스 랜딩 페이지(홈페이지) 만들기 실습입니다. <br>
 Netlify 로 배포하였으니 아래 데모 링크를 클릭하여 확인해보세요. <br>
 
-[DEMO]([https://flamboyant-lumiere-482a1e.netlify.app/](https://celadon-cendol-7d648a.netlify.app/)) <br/>
+[DEMO]([https://flamboyant-lumiere-482a1e.netlify.app/](https://celadon-cendol-7d648a.netlify.app/) <br/>
 
 ![Starbucks](https://github.com/doyeolKR/starbucks/assets/86040882/7cb25221-1195-44ac-b5c2-e361794ad7e4)
 
